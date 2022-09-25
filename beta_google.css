@@ -1,0 +1,36 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.text_align{
+    text-align: center;
+}
+.dp{
+    display: block;
+}
+.mb{
+    margin: 5px;
+}
+.wh{
+    width: 30%;
+    height: 153.600px;
+}
+.header{
+    height: 300px;
+}
+.search_line{
+    width: 600px;
+    height: 18px;
+}
+.searches{
+    background-color: #bbe4e9;
+}
+.info{
+    background-color: #79c2d0;
+}
+.member{
+    background-color: #53a8b6;
+}
+
